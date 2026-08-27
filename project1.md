@@ -3,46 +3,34 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Data Structures Anylisis
+-   **Grade:** A
+-   **Language(s):** C++
+-   **Source Code Repository:** [krabbenhoft/csci-315-project-3](https://github.com/Krabbenhoft/csci-315-project-3)  
+    (Please [email me](mailto:isaac.krabbenhoft@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a highly performant algorithim for finding the minimum set of sets needed to contain all of the ellements in a given set. Duplicates are allowed to occur in both the given set to build a spanning set of sets for and in the sets used to build the spanning set of sets. This makes things much slower because you cannot treat the presence or absense of ellements as a binary value. Treating presence and absense as a binary value for an initial pass would be a usefull optimization for longer searches. I am also concerned to make sure that the vector subtraction is using SIMD. I need to do more research to see if it is or not. This could be a major optimization.
+
+One thing I attempted was to use eight bit integers to fit more in cache and avoid cache misses. In the end though, performance was destroyed by integer promotions and it was three times slower. It was a tough lesson to learn, but I won't make that mistake again.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+make run
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+## Implementation
 
-## UI Design
+This program does not take any user input directly. Data is read in from the ./data directory. Each line contains one list of space delimited integers that is a canidate for the spanning set of sets for the given input. Test inputs are hardcoded.
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+![screenshot](images/sample_data.png)  
+Fig 1. Sample data.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/successful_execution.png)  
+Fig 2. Successful execution.
 
 [Back to Portfolio](./)
