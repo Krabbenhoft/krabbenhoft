@@ -41,6 +41,12 @@ Ethics Papers
 -   **Class:** Computer Architecture
 -   **Grade:** A
 
+
+### [Software Testing Ethics](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreidlq7fqughsay7dbexhwyh6snxs2a2vzdhgecdhimydf4d7qze2ii)
+
+-   **Class:** Data Structures Analysis
+-   **Grade:** A
+
 ### [AI Ethics in Web Development](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreibplimtrboygeuqajb3rrasnvncyf2cg7xgaukmcgam7wbunzg25y)
 
 -   **Class:** Survey of Scripting Languages
