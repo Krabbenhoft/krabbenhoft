@@ -18,9 +18,10 @@ This project is a track team manager. It allows the manager of a set of track te
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./TheCoachToolApp/TheCoachToolApp/src
+cd ./TheCoachToolApp/src
 javac thecoachtoolapp/*.java
 jar -cvfm compiled_code.jar META-INF/MANIFEST.MF thecoachtoolapp/*.class
+cd ..
 mv src/compiled_code.jar .
 java -jar compiled_code.jar
 ```
