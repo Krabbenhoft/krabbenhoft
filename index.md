@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/successful_execution.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Restaurant Recipt Generator | CSCI 235](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Restaurant Recipt Generator](images/restaurant.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
