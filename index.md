@@ -31,27 +31,27 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreibvj3da25k4morke6alr32tur773njghya7sja72aqnpd5vuyg6ve)
+### [Utilitarian Approaches to Autonomous Vehicle Ethics: Limitations and Implementations](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreibvj3da25k4morke6alr32tur773njghya7sja72aqnpd5vuyg6ve)
 
 -   **Class:** Applied Networking
 -   **Grade:** A
 
-### [Paper 2 Title](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreiggud5w2czkk4fiav6b2p3jmrhrqg2g36gpszntj4a4zduh75jhxa)
+### [Protecting the Interests of Subjects of Memes: Evaluating the Legality of Memes Under Right to Publicity, Copyright, and Defamation Law](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreiggud5w2czkk4fiav6b2p3jmrhrqg2g36gpszntj4a4zduh75jhxa)
 
 -   **Class:** Computer Architecture
 -   **Grade:** A
 
-### [Paper 3 Title](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreibplimtrboygeuqajb3rrasnvncyf2cg7xgaukmcgam7wbunzg25y)
+### [AI Ethics in Web Development](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreibplimtrboygeuqajb3rrasnvncyf2cg7xgaukmcgam7wbunzg25y)
 
 -   **Class:** Survey of Scripting Languages
 -   **Grade:** A
 
-### [Paper 3 Title](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreibqiqcjv2mo6iy5ki3ope6pr5ski2o5dhpzbvujo3pjfqot354gii)
+### [Accessible Web Design: the Business and Ethical Case](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreibqiqcjv2mo6iy5ki3ope6pr5ski2o5dhpzbvujo3pjfqot354gii)
 
 -   **Class:** Object Oriented Programming
 -   **Grade:** A
 
-### [Paper 3 Title](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreiampfnpdf6h4m467uhfwzqetd3v67v5t3aozkvmtsm67e23wpge6u)
+### [Modern Man’s Miasma: Reducing the Harm of Push Notifications](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafkreiampfnpdf6h4m467uhfwzqetd3v67v5t3aozkvmtsm67e23wpge6u)
 
 -   **Class:** Procedural Programming
 -   **Grade:** A
