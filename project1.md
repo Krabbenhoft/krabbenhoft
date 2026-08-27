@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Minimum Set Finder
 ===============
 
 -   **Class:** Data Structures Anylisis

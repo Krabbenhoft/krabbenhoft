@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Restaurant Recipt Generator
 ===============
 
 -   **Class:** Procedural Programming
 -   **Grade:** A
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Krabbenhoft/csci-235)  
+-   **Source Code Repository:** [krabbenhoft/csci-235](https://github.com/Krabbenhoft/csci-235)  
     (Please [email me](mailto:isaac.krabbenhoft@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description

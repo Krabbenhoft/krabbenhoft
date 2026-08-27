@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Minimum Set Finder | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/successful_execution.png)
+![Minimum Set Finder](images/successful_execution.png)
 
 ---
 ### [Restaurant Recipt Generator | CSCI 235](project2)
@@ -17,9 +17,9 @@ Programming Projects
 ![Restaurant Recipt Generator](images/restaurant.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [The Coach Tool App | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![The Coach Tool App ](images/coach_header.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
