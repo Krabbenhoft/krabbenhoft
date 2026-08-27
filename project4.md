@@ -15,12 +15,16 @@ This application consists of a client and a server. They transfer files in batch
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+You will need to run the client and server seperately.
 
+Run the client.
 ```bash
 cd client
 g++ *.cpp && ./*.out
-cd ..
+```
+
+Run the server.
+```bash
 cd server
 g++ *.cpp && ./*.out
 ```

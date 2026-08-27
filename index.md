@@ -22,9 +22,14 @@ Programming Projects
 ![The Coach Tool App ](images/coach_header.png)
 
 ---
-### [File Server | CSCI 332](project1)
+### [File Server | CSCI 332](project4)
 
 ![File server client](images/client.png)
+
+---
+### [Charity Run Website | CSCI 334](project5)
+
+![File server client](images/user_view.png)
 
 ---
 
