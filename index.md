@@ -61,18 +61,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Capturing How Students Program: A Proposed Data Collection Framework for Behavioral Analysis](https://fuchsia-worrying-dinosaur-504.mypinata.cloud/ipfs/bafybeif7ixps2kpox5izhtox3fpwv65hg65zfnzmxcsesa7ogsinzhcfo4)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Computer Science Research
+- **Grade:** A
 
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
 
 ---
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
