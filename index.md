@@ -22,9 +22,9 @@ Programming Projects
 ![The Coach Tool App ](images/coach_header.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [File Server | CSCI 332](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![File server client](images/client.png)
 
 ---
 
