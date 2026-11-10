@@ -5,7 +5,12 @@ Programming Projects
 --------------------
 
 *For access to my private project repositories, please [email me](mailto:isaac.krabbenhoft@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
+---
+### [Senior Project: Automated Data Spillage Prevention & Retention Policy Enforcement for Hybrid File Storage | CSCI 498](project6)
 
+![Ace Cyber Logo](images/ace_cyber.png)
+
+---
 ---
 ### [Minimum Set Finder | CSCI 315](project1)
 
